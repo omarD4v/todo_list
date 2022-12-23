@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end web development (for now)
 - 🌱 I’m currently learning front-end development (JavaScript, Sass, React).
 - 💞️ I’m looking to collaborate on certain proyects I have in mind, with the aim of improve my abilities.
-- 📫 You can reach me via Quora (Omar David Mendez Montiel) or Telegram (@Omar280107)
+- 📫 You can reach me via Gmail: omardavidmendezmontiel@gmail.com
 
 I'm 16 years old and I'm trying to start in this world of web development. If you are a student too, it would be cool to learn
 new stuff with you (and other people in the future). 
