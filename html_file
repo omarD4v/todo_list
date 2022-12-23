@@ -1,10 +1,21 @@
 <DOCTYPE! html>
 <html>
   <head>
+    <title>Your To Do List</title>
+    <meta name="viewport" content="initial-scale=1, width=device-width">
   </head>
   <body>
-    <header></header>
-    <main></main>
+    <header id="header">
+      <div id="header/logo-container">
+        <img> <!--Here comes an image-->
+      </div> 
+      <div id="header/to_do-container">
+        <h1>TO DO LIST!</h1>
+      </div>
+    </header>
+    <main>
+			
+    </main>
     <footer></footer>
   </body>
 </html>
